@@ -6,3 +6,8 @@ git branch -M main
 git remote remove origin  # Optional: if origin exists
 git remote add origin https://github.com/Priyanshu-techp/heart-disease-prediction.git
 git push -u origin main
+
+
+git add .
+git commit -m "requirement.txt and .gitignore" 
+git push origin main  
